@@ -28,11 +28,11 @@ This project is a FastAPI-based restaurant recommendation system powered by a co
 ## 📸 Screenshots
 
 ### 🏠 Home
-![Dashboard](visuals/Dashboard.png)
+![Dashboard](visuals/Dashbord.png)
 
 ### 📊 Insights
 ![Rating](visuals/rating_distribution.png)
-![Cuisines](visuals/cuisine_freq.png)
+![Cuisines](cuisine_freq.png)
 
 ## How to Run
 
