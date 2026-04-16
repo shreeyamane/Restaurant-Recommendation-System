@@ -53,12 +53,6 @@ pip install -r requirements.txt
 uvicorn app:app --reload
 ```
 
-4. Add your default login credentials in `.env`:
-
-```env
-APP_USER_EMAIL=shreeyash2573@gmail.com
-APP_USER_PASSWORD=Shreeyash@2516
-FLASK_SECRET_KEY=restaurant-recommender-secret-key
 ```
 
 5. Open the local FastAPI URL in your browser, usually `http://127.0.0.1:8000`.
