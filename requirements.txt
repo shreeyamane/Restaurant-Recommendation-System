@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-multipart
+textblob
+gunicorn
+jinja2
+itsdangerous
+werkzeug
+fastapi
+uvicorn
+pandas
+scikit-learn
