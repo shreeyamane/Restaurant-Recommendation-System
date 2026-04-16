@@ -51,9 +51,6 @@ This project is a FastAPI-based restaurant recommendation system powered by a co
 ```bash
 pip install -r requirements.txt
 uvicorn app:app --reload
-```
-
-```
 
 5. Open the local FastAPI URL in your browser, usually `http://127.0.0.1:8000`.
 6. Log in with the seeded user or create a new account from the register page.
