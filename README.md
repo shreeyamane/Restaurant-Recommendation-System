@@ -55,25 +55,25 @@ uvicorn app:app --reload
 5. Log in with the seeded user or create a new account from the register page.
 6. Visit `/insights` to view the saved visualizations in the web app.
 
-## Project Structure
+## 📂 Project Structure
 
-```text
 app/
-  static/
-    css/
-    images/
-  templates/
-    index.html
-    result.html
-    insights.html
+static/
+css/
+images/
+templates/
+index.html
+result.html
+insights.html
+
 app.py
+
 model/
-  build_model.ipynb
-  recommend.py
-  restaurant.pkl
-  tfidf.pkl
-  tfidf_matrix.pkl
-```
+build_model.ipynb
+recommend.py
+restaurant.pkl
+tfidf.pkl
+tfidf_matrix.pkl
 
 ## Notes
 
