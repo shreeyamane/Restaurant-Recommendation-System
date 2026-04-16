@@ -1,8 +1,5 @@
 # Restaurant Recommendation System
 
-## Restaurant Recommendation System
-https://foodrecommendation-in.onrender.comLive 
-
 ## Project Overview
 
 This project is a FastAPI-based restaurant recommendation system powered by a content-based filtering model. Users can search for a restaurant and refine recommendations using budget, rating, and cuisine preferences. The project also includes data visualizations that summarize restaurant trends from the dataset.
@@ -30,16 +27,20 @@ This project is a FastAPI-based restaurant recommendation system powered by a co
 
 ### Home Page
 
-![Home Page](app/static/images/top_restaurants.png)
+![Home Page](<img width="1919" height="1009" alt="Dashbord" src="https://github.com/user-attachments/assets/e93d5d55-f354-44da-946b-f2ac2740b03a" />
+)
 
 ### Insights Page
 
-![Insights](app/static/images/top_rated.png)
+![Insights](<img width="1915" height="1019" alt="User Input" src="https://github.com/user-attachments/assets/eff5484f-609b-44c4-951d-1b59820a6f91" />
+)
 
 ### Dataset Visualizations
 
-![Rating Distribution](app/static/images/rating_distribution.png)
-![Popular Cuisines](app/static/images/cuisine_freq.png)
+![Rating Distribution](<img width="1000" height="500" alt="rating_distribution" src="https://github.com/user-attachments/assets/0d959d1f-c519-4f0e-b2d2-cc47391a2785" />
+)
+![Popular Cuisines](<img width="1000" height="600" alt="cuisine_freq" src="https://github.com/user-attachments/assets/34b530f9-68e1-4970-a5e7-3a3630c90055" />
+)
 
 ## How to Run
 
